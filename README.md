@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite Template
 
 A modern React template for web applications and games, featuring React 18, Vite, TailwindCSS, and Material UI.
@@ -37,3 +38,6 @@ A modern React template for web applications and games, featuring React 18, Vite
 - TailwindCSS
 - ESLint
 - Javascript
+=======
+# portfolio-website
+>>>>>>> 2b24166e9f0ae1d89faa2ed3c5dacc30e5c886a4
